@@ -1,0 +1,10 @@
+source leaprc.protein.ff19SB
+source leaprc.gaff2
+
+LIG = loadmol2 zinc_gaff2.mol2
+loadamberparams zinc.frcmod
+
+saveoff LIG zinc.lib
+saveamberparm LIG zinc.prmtop zinc.inpcrd
+
+quit

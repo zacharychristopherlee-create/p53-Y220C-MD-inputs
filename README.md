@@ -46,7 +46,3 @@ For the CDB3 and rezatapopt systems, the ligand was prepared as described in the
 - All systems were equilibrated at 300 K. The production temperature (277 K or 310 K) is set only by `ref_t` in the production file.
 - Each system was simulated once.
 - Software: GROMACS 2026.3, AlphaFold 3 v3.0.4, AmberTools (`tleap`, `antechamber`, `parmchk2`), ACPYPE, ParmEd, GEMMI, PyMOL, PyRx.
-## Citation
- 
-Please cite the paper above. Citation details will be added here after publication.
- 
